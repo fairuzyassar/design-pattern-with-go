@@ -4,8 +4,8 @@
 
 | Type | When to use ? |
 | ---- | ------------- |
-| Abstract factory |  Creating dependent object |
-| Builder | Creating same object with different representation |
-| Factory Method | Creating different subclasses that implements same superclass (interface) without creating directly |
-| Object Pool | Maintain group of object |
-| Singleton | Ensure class only creating one time and provide global access to this class |
+| [Abstract Factory](abstract-factory/abstract-factory.go) |  Creating dependent object |
+| [Builder](builder/builder.go) | Creating same object with different representation |
+| [Factory Method](factory-method/factory.go) | Creating different subclasses that implements same superclass (interface) without creating directly |
+| [Object Pool](object-pool/object-pool) | Maintain group of object |
+| [Singleton](singleton/singleton.go) | Ensure class only creating one time and provide global access to this class |
