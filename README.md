@@ -14,3 +14,4 @@
 | Type | When to use ? |
 | ---- | ------------- |
 | [Adapter](adapter/adapter.go) | Convert one object so another object can understand it |
+| [Facade](facade/facade.go) | Simplified complex set of business logic into one library |
