@@ -15,3 +15,8 @@
 | ---- | ------------- |
 | [Adapter](adapter/adapter.go) | Convert one object so another object can understand it |
 | [Facade](facade/facade.go) | Simplified complex set of business logic into one library |
+
+## Behavioral Pattern
+| Type | When to use ? |
+| ---- | ------------- |
+| [Template Method](template-method/template.go) |  Skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure |
