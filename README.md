@@ -14,9 +14,14 @@
 | Type | When to use ? |
 | ---- | ------------- |
 | [Adapter](adapter/adapter.go) | Convert one object so another object can understand it |
+| [Bridge](bridge/bridge.go) | split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other |
 | [Facade](facade/facade.go) | Simplified complex set of business logic into one library |
 
 ## Behavioral Pattern
 | Type | When to use ? |
 | ---- | ------------- |
 | [Template Method](template-method/template.go) |  Skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure |
+
+
+## References
+- [refactoring.guru](https://refactoring.guru/design-patterns)
