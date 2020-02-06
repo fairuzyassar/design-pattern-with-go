@@ -14,7 +14,8 @@
 | Type | When to use ? |
 | ---- | ------------- |
 | [Adapter](adapter/adapter.go) | Convert one object so another object can understand it |
-| [Bridge](bridge/bridge.go) | split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other |
+| [Bridge](bridge/bridge.go) | Split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other |
+| [Composite](composite/composite.go) | Compose objects into tree structures and then work with these structures as if they were individual objects |
 | [Facade](facade/facade.go) | Simplified complex set of business logic into one library |
 
 ## Behavioral Pattern
